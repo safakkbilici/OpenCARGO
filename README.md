@@ -1,5 +1,2 @@
 # Cargo-Application
-#amac
-#bunubarisyapti
-#akthv2
-#sadi
+We will be here at 30.04.2020
