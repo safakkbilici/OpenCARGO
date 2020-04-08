@@ -1,3 +1,3 @@
 # OpenCARGO
-<img src="/home/safak/Desktop/OpenCARGO.png" alt="drawing" width="350"/>
+<img src="file:///home/safak/Desktop/OpenCARGO.png" alt="drawing" width="350"/>
 
