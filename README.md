@@ -1,2 +1,2 @@
 # OpenCARGO
-<img src="/home/safak/Desktop/OpenCARGO.png"/>
+![](img/OpenCARGO.png)
