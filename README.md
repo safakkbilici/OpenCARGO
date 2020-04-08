@@ -1,2 +1,2 @@
 # OpenCARGO
-![](img/OpenCARGO.png)
+<img src="/img/OpenCARGO.png" alt="drawing" width="350"/>
