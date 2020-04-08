@@ -1,2 +1,2 @@
 # OpenCARGO
-<img src="/img/OpenCARGO.png" alt="drawing" width="350"/>
+<img src="/img/OpenCARGO.png" alt="drawing" width="300"/>
