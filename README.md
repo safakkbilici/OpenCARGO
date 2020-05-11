@@ -24,4 +24,9 @@ After the user started the .exe file, s/he inputs the cargo's physical property 
 - Kaan Kesgin
 
 ## Panel
+<img src="/img/1.png" alt="drawing" width="600"/>
+<img src="/img/2.png" alt="drawing" width="600"/>
+<img src="/img/3.png" alt="drawing" width="600"/>
+<img src="/img/4.png" alt="drawing" width="600"/>
+<img src="/img/5.png" alt="drawing" width="600"/>
 
